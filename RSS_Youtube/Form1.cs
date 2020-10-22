@@ -20,6 +20,8 @@ namespace RSS_Youtube
         public Form1()
         {
             InitializeComponent();
+
+            Console.WriteLine("apa");
         }
 
         private void Form1_Load(object sender, EventArgs e)
